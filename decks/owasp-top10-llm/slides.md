@@ -15,9 +15,96 @@ LLMs do not "think" like humans; instead, they leverage patterns learned from ma
 
 ---
 
-<!-- This is slide MCP01-1 -->
 <!-- _class: image -->
-![bg contain](../../Resources/1_What_is_MCP.png)
+![bg contain](../../Resources/Slide_0.png)
+
+
+---
+
+<!-- _class: image -->
+![bg contain](../../Resources/Basics_Slide_01.png)
+
+---
+
+
+<!-- _class: image -->
+![bg contain](../../Resources/Basics_Slide_02.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../Resources/Basics_Slide_03.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../Resources/Intermediate_Slide_01.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../Resources/Intermediate_Slide_02.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../Resources/Intermediate_Slide_03A.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../Resources/Intermediate_Slide_04.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../Resources/Slide_1.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../Resources/Slide_2.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../Resources/Slide_3.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../Resources/Slide_4.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../Resources/Slide_5.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../Resources/Slide_6.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../Resources/Slide_7.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../Resources/Slide_8.png)
+
+---
+
+<!-- _class: image -->
+![bg contain](../../Resources/slide_9_1.png)
+
+---
+
+
+<!-- _class: image -->
+![bg contain](../../Resources/Slide-10.png)
 
 ---
 
