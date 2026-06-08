@@ -15,17 +15,20 @@ Large Language Models (LLMs) work by breaking your input into small pieces calle
 LLMs do not "think" like humans; instead, they leverage patterns learned from massive amounts of training data to produce relevant, context-aware text, code, or insights based on the prompt they receive.
 
 ---
+
+
+<!-- _class: image -->
+![bg contain](../../Resources/Slide_0.png)
+
+
+---
+
 ## Basics — How LLMs Work Behind the Scenes
 
 When you ask a question, an LLM first breaks your text into smaller pieces called tokens and converts them into numbers that computers can process. 
 It then looks at the order and meaning of those tokens to understand the context of your question. 
 Finally, it predicts the most likely next token again and again until it forms a clear and meaningful answer.
 
-
----
-
-<!-- _class: image -->
-![bg contain](../../Resources/Slide_0.png)
 
 
 ---
