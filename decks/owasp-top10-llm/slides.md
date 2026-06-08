@@ -132,5 +132,3 @@ This iterative process allows the model to refine context across layers and gene
 <!-- _class: image -->
 ![bg contain](../../Resources/Slide-10.png)
 
----
-
